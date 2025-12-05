@@ -13,7 +13,7 @@
 
 ### 🛠️ Tech Stack
 **Languages:**  
-Python • JavaScript • Bash • SQL
+Python • JavaScript • Bash • SQL • PHP • 
 
 **Frameworks & Tools:**  
 FastAPI • Flask • Django • Node.js • Git • Docker  
@@ -44,9 +44,9 @@ Linux • Ubuntu • Azure • Nginx • CI/CD
 ---
 
 ### 📫 Contact Me
-- Email: **youremail@example.com**  
-- LinkedIn: *add link here*  
-- Telegram: *@yourusername*  
+- Email: **mehrzad.mobin@gmail.com**  
+- LinkedIn: *https://www.linkedin.com/in/mobin-mehrzad-627051210/*  
+- Telegram: *Waiting for telegram bot to set up...*  
 
 ---
 

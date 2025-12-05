@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayxan 👋</h1>
-<p align="center">AI Developer • Python Programmer • Curious Mind</p>
+<p align="center">AI Developer • Python Programmer • Back-End Developer • Curious Mind</p>
 
 ---
 

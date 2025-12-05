@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayxan 👋</h1>
+<h1 align="center">Hi, I'm Ayhan 👋</h1>
 <p align="center">AI Developer • Python Programmer • Back-End Developer • Curious Mind</p>
 
 ---

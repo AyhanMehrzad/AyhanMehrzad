@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ayxan 👋</h1>
+<p align="center">AI Developer • Python Programmer • Curious Mind</p>
 
-<!--
-**AyhanMehrzad/AyhanMehrzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Programmer & student who loves building things that actually *solve problems*.  
+- 🧠 Learning: AI development, backend engineering, and cloud deployment.  
+- 💼 Currently working on Telegram bots, web apps, and AI-powered tools.  
+- 🎯 Goal: Become a world-class AI developer and build products that help people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages:**  
+Python • JavaScript • Bash • SQL
+
+**Frameworks & Tools:**  
+FastAPI • Flask • Django • Node.js • Git • Docker  
+
+**AI & Data:**  
+NumPy • Pandas • Scikit-learn • TensorFlow • LangChain  
+
+**DevOps & Cloud:**  
+Linux • Ubuntu • Azure • Nginx • CI/CD
+
+---
+
+### 🔥 Featured Projects
+| Project | Description | Stack |
+|--------|-------------|--------|
+| **Fanous Bot** | AI-powered educational & counseling Telegram bot | Python, Gemini API |
+| **Messaging Platform** | Real-time chat system using WebSockets | Node.js, MongoDB |
+| **AI Tools Collection** | Useful machine-learning utilities | Python, ML |
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 📫 Contact Me
+- Email: **youremail@example.com**  
+- LinkedIn: *add link here*  
+- Telegram: *@yourusername*  
+
+---
+
+### 😄 Fun Fact
+I write code like a kid playing with LEGOs — trying things, breaking things, and somehow ending up with something beautiful.
+

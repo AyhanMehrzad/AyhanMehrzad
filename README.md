@@ -31,8 +31,8 @@
 ### 🔥 Featured Projects
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Fanous Bot](https://github.com/AyhanMehrzad)** | AI-powered educational & counseling Telegram bot using LLMs. | Python, Gemini API, FastAPI |
-| **[Messaging Platform](https://github.com/AyhanMehrzad)** | Real-time chat system with low-latency communication. | Node.js, MongoDB, WebSockets |
+| **[Telegram Bot](https://github.com/AyhanMehrzad)** | AI-powered educational & counseling Telegram bot using LLMs. | Python, Gemini API, FastAPI |
+| **[Secure Chanel](https://github.com/AyhanMehrzad)** | Real-time chat system with low-latency communication. | python, react, WebSockets |
 | **[AI Tools Collection](https://github.com/AyhanMehrzad)** | A suite of ML utilities for automated data processing. | Python, Scikit-learn |
 
 ---

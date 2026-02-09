@@ -51,7 +51,7 @@
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mobin-mehrzad-627051210/">
+  <a href="www.linkedin.com/in/ayhan-mehrzad-627051210">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mehrzad.ayhan@gmail.com">

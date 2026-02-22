@@ -11,8 +11,8 @@
 
 ### 🚀 About Me
 - 🎓 **Building Solutions:** I'm a programmer and student dedicated to building tools that solve real-world problems.
-- 🧠 **Focus:** Currently mastering **AI Development**, **Backend Architecture**, and **Cloud Scalability**.
-- 💼 **Current Work:** Developing AI-powered Telegram bots, scalable web apps, and machine learning utilities.
+- 🧠 **Focus:** Currently mastering **AI Development**, **ML,Deeplearning & Nueral networks**, and **Backend Architecture**.
+- 💼 **Current Work:** Real problem solving ML models and scalable web apps.
 - 🎯 **Goal:** To become a world-class AI developer and create products that empower users globally.
 
 ---

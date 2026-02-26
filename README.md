@@ -57,7 +57,7 @@
   <a href="mailto:mehrzad.ayhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://t.me/AyhanMehrzad">
+  <a href="https://t.me/howrupcode">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
